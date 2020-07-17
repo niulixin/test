@@ -52,6 +52,7 @@ public class main {
 			//8、释放资源
 			con.close();
 			System.out.println("注册成功！");
+			System.out.println("注册成功！");
 			
 
 //   	 		//1、导入jar包
